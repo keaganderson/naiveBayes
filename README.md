@@ -1,4 +1,4 @@
-# naiveBayes
+# Naive Bayes
 
 Jupyter Notebook of a custom Naive Bayes classification using the SpamBase Dataset.
 
